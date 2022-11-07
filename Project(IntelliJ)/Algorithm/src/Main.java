@@ -1,9 +1,16 @@
+import Programmers.Practice.BruteForce.L2_DividePowerGrid;
 import Programmers.Practice.BruteForce.L2_fatigue;
 
 public class Main {
     public static void main(String[] args) {
-        int k = 80;
-        int[][] dungeons = {{80, 20}, {50, 40}, {30, 10}};
-        System.out.println(new L2_fatigue().solution(k, dungeons));
+        String word = "AA";
+
+        int answer = 0, per = 125;
+        for(String s : word.split("")) {
+            answer += "AEIOU".indexOf(s) * (per /= 5) + 1;
+        }
+
+        int i = 1 * (per /= 2);
+        System.out.println(i);
     }
 }

@@ -1,4 +1,4 @@
-package Test.Nexon;
+package Company_Test.Nexon;
 
 public class Nexon1 {
     /* 제너레이터 문제

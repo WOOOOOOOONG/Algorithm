@@ -1,4 +1,4 @@
-package Test.Nexon;
+package Company_Test.Nexon;
 
 public class NexSol1 {
     public static void main(String[] args) {

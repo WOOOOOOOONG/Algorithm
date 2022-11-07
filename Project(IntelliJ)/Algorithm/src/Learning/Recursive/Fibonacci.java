@@ -1,4 +1,7 @@
-package Practice;
+package Learning.Recursive;
+
+/* 재귀의 대표적인 예제인 피보나치 함수를 Top-down, Bottom-up 방식으로 풀이
+* */
 
 public class Fibonacci {
     public static void main(String[] args) {

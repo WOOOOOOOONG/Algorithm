@@ -1,4 +1,4 @@
-package Practice;
+package Company_Test.Others;
 
 public class Test3 {
     public long solution(int k) {

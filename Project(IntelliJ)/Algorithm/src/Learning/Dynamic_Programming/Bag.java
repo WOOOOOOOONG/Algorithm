@@ -1,4 +1,7 @@
-package Practice;
+package Learning.Dynamic_Programming;
+
+/* DP의 대표 예제인 가방 문제
+* * */
 
 public class Bag {
     public static void main(String[] args) {

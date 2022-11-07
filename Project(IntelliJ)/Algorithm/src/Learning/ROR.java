@@ -1,4 +1,4 @@
-package Practice;
+package Learning;
 
 import java.awt.*;
 import java.util.LinkedList;

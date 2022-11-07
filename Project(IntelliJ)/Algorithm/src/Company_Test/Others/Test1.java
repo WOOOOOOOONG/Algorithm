@@ -1,4 +1,4 @@
-package Practice;
+package Company_Test.Others;
 
 /*
 -ID 조건
