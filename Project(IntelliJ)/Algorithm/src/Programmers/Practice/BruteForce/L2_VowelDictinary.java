@@ -7,7 +7,7 @@ package Programmers.Practice.BruteForce;
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class VowelDictinary {
+public class L2_VowelDictinary {
     private char[] vowel = {'A', 'E', 'I', 'O', 'U'};
     ArrayList<String> dictinory = new ArrayList<>();
 
